@@ -1,2 +1,2 @@
-# designcompAnupa
+# DesigncompAnupa
 Free text edit
